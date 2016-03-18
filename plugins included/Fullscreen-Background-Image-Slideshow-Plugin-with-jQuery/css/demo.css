@@ -1,0 +1,12 @@
+body{
+	background: #000;
+	font-weight: 400;
+	font-size: 15px;
+	color: #aa3e03;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	text-align:center;
+}
+.ie7 body{
+	overflow:hidden;
+}

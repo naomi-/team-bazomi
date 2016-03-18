@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Basil Ryen-- <Designer/Developer> -- <www.basilryen.com>
+    Naomi Touchet-- <Designer/Developer> -- <www.naomitouchet.com>
+
+# THANKS
+
+    --Eric Meyers
+	--Paul Irish
+	--Christan Fergus
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, javascript,
+    jQuery, Modernizr
