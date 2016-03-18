@@ -8,13 +8,11 @@
 
 # THANKS
 
-    --Eric Meyers
-	--Paul Irish
 	--Christan Fergus
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Javascript,
-    jQuery, Modernizr
+    jQuery, Modernizr, SublimeSlideshow plugin
 
     Source: https://github.com/naomi-/team-bazomi.git
