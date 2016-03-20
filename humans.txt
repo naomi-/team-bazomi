@@ -15,4 +15,4 @@
     HTML5, CSS3, Javascript,
     jQuery, Modernizr, SublimeSlideshow plugin
 
-    Source: https://github.com/naomi-/team-bazomi.git
+Source: https://github.com/naomi-/team-bazomi.git
